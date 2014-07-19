@@ -1,7 +1,7 @@
 uk.org.bobulous.java.startup
 ============================
 
-Package which includes the <code>MainArgsHandler</code> utility class.
+Package which includes the <code>MainArgsHandler</code> utility class. Depends on both of the packages <a href="https://github.com/Bobulous/uk.org.bobulous.java.toolkit">uk.org.bobulous.java.toolkit</a> and <a href="https://github.com/Bobulous/uk.org.bobulous.java.intervals">uk.org.bobulous.java.intervals</a>.
 
 <h2>MainArgsHandler</h2>
 
