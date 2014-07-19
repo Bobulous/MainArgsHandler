@@ -1,7 +1,9 @@
 uk.org.bobulous.java.startup
 ============================
 
-Package which includes the MainArgsHandler utility class.
+Package which includes the <code>MainArgsHandler</code> utility class.
+
+<h2>MainArgsHandler</h2>
 
 Processes command-line arguments supplied to a Java application's
 <code>main</code> method.
