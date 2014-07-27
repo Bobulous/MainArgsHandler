@@ -3,6 +3,8 @@ uk.org.bobulous.java.startup
 
 Package which includes the <code>MainArgsHandler</code> utility class. Depends on the package <a href="https://github.com/Bobulous/uk.org.bobulous.java.intervals">uk.org.bobulous.java.intervals</a>.
 
+<p>See <a href="http://www.bobulous.org.uk/coding/MainArgsHandler.html">this introductory article</a> for examples of using the <code>MainArgsHandler</code> class.</p>
+
 <h2>MainArgsHandler</h2>
 
 Processes command-line arguments supplied to a Java application's
