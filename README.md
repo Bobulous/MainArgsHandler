@@ -1,3 +1,1 @@
-I've migrated this project from GitHub over to GitLab.
-
-Please use the [GitLab MainArgsHandler repository](https://gitlab.com/Bobulous/MainArgsHandler) from now on.
+This repository has moved to [Codeberg](https://codeberg.org/Bobulous/MainArgsHandler). This GitHub copy has been archived (read-only mode). To contribute to this project please visit the [Codeberg repository](https://codeberg.org/Bobulous/MainArgsHandler).
